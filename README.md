@@ -16,7 +16,7 @@ For software configuration, all model are implemented in
 - tqdm 4.64.1
 
 ## Data
-The original transaction can be downloaded from the blockchain browser [page](https://etherscan.io/).
+The original transaction can be downloaded from the blockchain browser [page](https://goto.etherscan.com/txs?a=0x602809252600121dc4b9c0904148d07e4d5db26f).
 
 
 ## Usage
