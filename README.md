@@ -17,6 +17,7 @@ For software configuration, all model are implemented in
 
 ## Data
 The original transaction can be downloaded from the blockchain browser [page](https://goto.etherscan.com/txs?a=0x602809252600121dc4b9c0904148d07e4d5db26f).
+Given the large size of the data files, we provide download links for access. For batch downloads, we recommend using the API interface provided by the hosting website. If you prefer to use our preprocessed data directly, please refer to the files in the dataset folder.
 
 
 ## Usage
