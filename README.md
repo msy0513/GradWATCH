@@ -4,7 +4,7 @@ Tracing Your Account: A Gradient-Aware Dynamic Window Graph Framework for Ethere
 This is a Python implementation of GradWATCH, as described in the following:
 > Tracing Your Account: A Gradient-Aware Dynamic Window Graph Framework for Ethereum under Privacy-Preserving Services
 
-## Requirements
+## 🛠️ Requirements
 For software configuration, all model are implemented in
 - Python 3.9
 - Torch 2.1.1
@@ -20,7 +20,7 @@ The original transaction can be downloaded from the blockchain browser [page](ht
 Given the large size of the data files, we provide download links for access. For batch downloads, we recommend using the API interface provided by the hosting website. If you prefer to use our preprocessed data directly, please refer to the files in the dataset folder.
 
 
-## Usage
+## 🚀 Quick Start (Step-by-Step)
 Execute the following bash commands in the same directory where the code resides:
 1. Process the dataset, generate MixTAG, and output the data to meet the input requirements of the model, which will be placed in the '/tornado-rule' or '/ens' folder:
   ```bash
@@ -38,3 +38,16 @@ Here, the initial embeddings of the nodes are generated based on the original tr
 ```bash
 $ python main.py
 ```
+
+## 📖 Citation
+If you find this work useful, please cite the following:
+@INPROCEEDINGS {,
+author = { Miao, Shuyi and Qiu, Wangjie and Tu, Xiaofan and Li, Yunze and Wen, Yongxin and Zheng, Zhiming },
+booktitle = { IEEE Transactions on Information Forensics & Security },
+title = {{ Tracing Your Account: A Gradient-Aware Dynamic Window Graph Framework for Ethereum under Privacy-Preserving Services}},
+year = {2026},
+pages = {},
+}
+
+## 💬 Contact
+If you have any questions regarding our paper or code, please feel free to contact us via email 📧 (shuyimiao@buaa.edu.cn).
