@@ -41,6 +41,7 @@ $ python main.py
 
 ## 📖 Citation
 If you find this work useful, please cite the following:
+```bash
 @INPROCEEDINGS {,
 author = { Miao, Shuyi and Qiu, Wangjie and Tu, Xiaofan and Li, Yunze and Wen, Yongxin and Zheng, Zhiming },
 booktitle = { IEEE Transactions on Information Forensics & Security },
@@ -48,6 +49,7 @@ title = {{ Tracing Your Account: A Gradient-Aware Dynamic Window Graph Framework
 year = {2026},
 pages = {},
 }
+```bash
 
 ## 💬 Contact
 If you have any questions regarding our paper or code, please feel free to contact us via email 📧 (shuyimiao@buaa.edu.cn).
