@@ -49,7 +49,7 @@ title = {{ Tracing Your Account: A Gradient-Aware Dynamic Window Graph Framework
 year = {2026},
 pages = {},
 }
-```bash
+```
 
 ## 💬 Contact
 If you have any questions regarding our paper or code, please feel free to contact us via email 📧 (shuyimiao@buaa.edu.cn).
