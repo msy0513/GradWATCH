@@ -42,13 +42,16 @@ $ python main.py
 ## 📖 Citation
 If you find this work useful, please cite the following:
 ```bash
-@INPROCEEDINGS {,
-author = { Miao, Shuyi and Qiu, Wangjie and Tu, Xiaofan and Li, Yunze and Wen, Yongxin and Zheng, Zhiming },
-booktitle = { IEEE Transactions on Information Forensics & Security },
-title = {{ Tracing Your Account: A Gradient-Aware Dynamic Window Graph Framework for Ethereum under Privacy-Preserving Services}},
-year = {2026},
-pages = {},
-}
+@ARTICLE{11435445,
+  author={Miao, Shuyi and Qiu, Wangjie and Tu, Xiaofan and Li, Yunze and Wen, Yongxin and Zheng, Zhiming},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Tracing Your Account: A Gradient-Aware Dynamic Window Graph Framework for Ethereum under Privacy-Preserving Services}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Blockchains;Tornadoes;Semantics;Privacy;Feature extraction;Protection;Graph neural networks;Semantic Web;Noise;Computational modeling;Blockchain;Ethereum;Privacy Protection Services;Dynamic Graph Neural Networks;Gradient propagation},
+  doi={10.1109/TIFS.2026.3674425}}
 ```
 
 ## 💬 Contact
