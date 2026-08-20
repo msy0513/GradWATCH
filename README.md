@@ -45,12 +45,12 @@ If you find this work useful, please cite the following:
 @ARTICLE{11435445,
   author={Miao, Shuyi and Qiu, Wangjie and Tu, Xiaofan and Li, Yunze and Wen, Yongxin and Zheng, Zhiming},
   journal={IEEE Transactions on Information Forensics and Security}, 
-  title={Tracing Your Account: A Gradient-Aware Dynamic Window Graph Framework for Ethereum under Privacy-Preserving Services}, 
+  title={Tracing Your Account: A Gradient-Aware Dynamic Window Graph Framework for Ethereum Under Privacy-Preserving Services}, 
   year={2026},
-  volume={},
+  volume={21},
   number={},
-  pages={1-1},
-  keywords={Blockchains;Tornadoes;Semantics;Privacy;Feature extraction;Protection;Graph neural networks;Semantic Web;Noise;Computational modeling;Blockchain;Ethereum;Privacy Protection Services;Dynamic Graph Neural Networks;Gradient propagation},
+  pages={3325-3338},
+  keywords={Blockchains;Tornadoes;Semantics;Privacy;Feature extraction;Protection;Graph neural networks;Semantic Web;Noise;Computational modeling;Blockchain;ethereum;privacy protection services;dynamic graph neural networks;gradient propagation},
   doi={10.1109/TIFS.2026.3674425}}
 ```
 
